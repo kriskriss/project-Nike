@@ -9,7 +9,7 @@
 - 개발 기간 : 2023/05/26 ~ 2023/06/09
 - 개발 인원 : 프론트엔드 3명 , 백엔드 1명
   - Product Manager: 김혜중(B)
-  - Project Manager: 조혜진(F)
+  - Project Manager: Kris(F)
   - Teammates: 이재웅(F), 장건웅(F)
 - 깃헙 레포지토리
   - [Frontend](https://github.com/wecode-bootcamp-korea/46-1st-BestFriend-frontend)
