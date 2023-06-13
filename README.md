@@ -32,26 +32,28 @@
 
 ## ⚡️ 구현 기능
 
-1. 내비게이션 바 드롭다운 메뉴
-2. 회원가입/로그인
-3. 상품 카테고리, 필터, 정렬, 페이지네이션, 검색
-4. 상품 상세페이지 동적 라우팅
-5. 위시리스트, 장바구니
-6. 결제
-7. 기타: 캐러셀, 토스트 팝업
+|기능|FE|BE|
+|---|:---:|:---:|
+|내비게이션 바 드롭다운 메뉴|Kris|김혜중| 
+|회원가입/로그인|장건웅|김혜중| 
+|상품 카테고리, 필터, 정렬, 페이지네이션, 검색|Kris|김혜중|
+|상품 상세페이지 동적 라우팅|이재웅|김혜중|
+|위시리스트, 장바구니|이재웅|김혜중|
+|결제|Kris|김혜중|
+|이미지 캐러셀|Kris, 이재웅|김혜중|
+|토스트 팝업|이재웅, 장건웅|김혜중|
 
 ## 📚 기술 스택
 
 ### Frontend
-
-|                                             JavaScript                                             |                                                 React                                                 |                                              scss                                               |                                                 esLint                                                 |                                                 Prettier                                                 |
-| :------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
+|JavaScript|React|Scss|esLint|Prettier|
+|:---:|:---:|:---:|:---:|:---:|
 | <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="65" height="65" /></div> | <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" /> |
 
 ### Backend
 
-|                                             JavaScript                                             |                                                Node.js                                                |                                                    MySQL                                                     |
-| :------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
+|JavaScript|Node.js|MySQL|
+|:---:|:---:|:---:|
 | <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> </div> |
 
 ## ⚙️ 협업툴
